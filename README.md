@@ -36,6 +36,11 @@ Why can’t browsers read JSX?
 
   Browsers can't read JSX because it is not a valid syntax for HTML or JavaScript. JSX needs to be transformed into JavaScript code using a transpiler like Babel before it can be executed by the browser.
 
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
