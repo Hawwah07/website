@@ -1,3 +1,41 @@
+List five significant features of React
+  1. Virtual DOM: React uses a virtual representation of the DOM, which enables faster rendering of UI updates.
+
+  2. Component-Based Architecture: React uses a component-based architecture, which allows developers to build reusable UI components.
+
+  3. JSX: React uses JSX, a syntax extension that allows developers to write HTML-like code in JavaScript.
+
+  4. Unidirectional data flow: React follows a unidirectional data flow, which makes it easier to debug and maintain code.
+
+  5. Performance: React is known for its high performance due to its efficient rendering system and use of virtual DOM.
+
+List five major advantages of react
+  1. Reusability: React's component-based architecture enables developers to build reusable UI components, which reduces development time and increases code efficiency.
+
+  2. Modularity: React allows developers to break down complex UIs into smaller, more manageable components, making it easier to maintain and update code.
+
+  3. Performance: React's use of a virtual DOM and efficient rendering system ensures faster rendering of UI updates, which makes it suitable for large-scale applications.
+
+  4. Flexibility: React can be used with different programming languages and frameworks, making it easy to integrate into existing projects.
+
+  5. Large Community: React has a large and active community of developers, which means that there are many resources and tools available to help with development.
+
+What is the name of the Software Engineer that created React? Also, which company owns React?
+
+  React was created by Jordan Walke, a software engineer at Facebook. React is owned by Facebook, but it is an open-source project.
+
+What are the notable differences between HTML & JSX? Give at least 3 of them
+
+  1. Syntax: HTML is a markup language, while JSX is a syntax extension of JavaScript.
+
+  2. Tag names: HTML uses traditional HTML tag names, while JSX uses capitalized component names.
+
+  3. Attributes: HTML attributes are defined with quotes, while JSX attributes use curly braces.
+
+Why can’t browsers read JSX?
+
+  Browsers can't read JSX because it is not a valid syntax for HTML or JavaScript. JSX needs to be transformed into JavaScript code using a transpiler like Babel before it can be executed by the browser.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +106,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
