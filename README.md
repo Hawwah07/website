@@ -22,7 +22,7 @@ List five major advantages of react
 
 What is the name of the Software Engineer that created React? Also, which company owns React?
 
-  React was created by Jordan Walke, a software engineer at Facebook. React is owned by Facebook, but it is an open-source project.
+  React was created by Jordan Walke, a software engineer at Facebook. React is owned by Meta (Formally Facebook), it is an open-source project.
 
 What are the notable differences between HTML & JSX? Give at least 3 of them
 
